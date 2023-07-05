@@ -12,7 +12,7 @@ This code provides a simple implementation of user authentication and registrati
 ## Installation
 To install this project, follow these steps:
 
-* Clone the repository using `git clone https://github.com/username/Passport-Login_page.git`.
+* Clone the repository using `git clone https://github.com/YoungKing-Joshua/Passport-Login_Page.git`.
 * Install the dependencies using npm install.
 * Rename the .env.example file to .env and update the values with your own environment variables.
 * Start the server using npm run devStart.
